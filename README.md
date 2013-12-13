@@ -10,13 +10,24 @@ The threshold levels for all filters can be adjusted by running your finger up a
 
 NOTE: You will need to download the RadiumOne Photo Effects SDK from http://effects.radiumone.com/
 
+After you take a picture you can share it on social networks or eidt the photo using stickers, cropping, frames, etc.
+
 Screen shots:
 
-![Splash Screen](DotCam/DotCam/dot-cam-shots-0.jpg)
-![Splash Screen](DotCam/DotCam/dot-cam-shots-1.jpg)
-![Splash Screen](DotCam/DotCam/dot-cam-shots-2.jpg)
-![Splash Screen](DotCam/DotCam/dot-cam-shots-3.jpg)
-![Splash Screen](DotCam/DotCam/dot-cam-shots-4.jpg)
-![Splash Screen](DotCam/DotCam/dot-cam-shots-5.jpg)
-![Splash Screen](DotCam/DotCam/dot-cam-shots-6.jpg)
-![Splash Screen](DotCam/DotCam/dot-cam-shots-7.jpg)
+![Dot-Cam shot of my eye](DotCam/DotCam/dot-cam-shots-0.jpg)
+
+
+![Example camera shot](DotCam/DotCam/dot-cam-shots-1.jpg)
+
+![Example camera shot](DotCam/DotCam/dot-cam-shots-2.jpg)
+
+![Example camera shot](DotCam/DotCam/dot-cam-shots-3.jpg)
+
+![Example camera shot](DotCam/DotCam/dot-cam-shots-4.jpg)
+
+![Example camera shot](DotCam/DotCam/dot-cam-shots-5.jpg)
+
+![Example camera shot](DotCam/DotCam/dot-cam-shots-6.jpg)
+
+![Example camera shot](DotCam/DotCam/dot-cam-shots-7.jpg)
+
