@@ -14,7 +14,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Init Photo Effects
-    [[R1PhotoEffectsSDK sharedManager] enableWithClientID:@"8eff5540-1698-0131-6017-22000afc8c3d"];
+    [[R1PhotoEffectsSDK sharedManager] enableWithClientID:@"ADD YOUR OWN APP ID"];
     
     return YES;
 }
