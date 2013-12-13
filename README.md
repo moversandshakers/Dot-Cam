@@ -11,7 +11,7 @@ The threshold levels for all filters can be adjusted by running your finger up a
 
 NOTE: You will need to download the RadiumOne Photo Effects SDK from http://effects.radiumone.com/
 
-After you take a picture you can share it on social networks or eidt the photo using stickers, cropping, frames, etc.
+After you take a picture you can share it on social networks or edit the photo using stickers, cropping, frames, etc.
 
 Screen shot of my eye. B&W filter and cropped
 =============================================
@@ -24,7 +24,7 @@ Back camera
 ![Example camera shot](DotCam/DotCam/dot-cam-shots-1.jpg)
 
 
-Front facing slefie with editing to crop and add a mustache!
+Front facing selfie with editing to crop and add a mustache!
 ============================================================
 
 
