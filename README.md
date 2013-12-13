@@ -7,4 +7,4 @@ Dot-Cam Retro Cam is an iPhone camera app that filters the camera using several 
 
 
 Example B/W shot:
-![Splash Screen](DotCam/dot-cam-shots-0.jpg)
+![Splash Screen](DotCam/DotCam/dot-cam-shots-0.jpg)
